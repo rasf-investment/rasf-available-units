@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-07T13:13:01.926645+03:00",
+  "updated": "2026-10-20T20:15:39.928749+03:00",
   "units": [
     {
       "id": "araka11-c10",
       "project": "عراقة 11",
-      "neighborhood": "",
+      "neighborhood": "حي العارض",
       "unitNumber": "C10",
       "floor": "الثاني",
-      "area": 131.64,
+      "area": 128.16,
       "furnishing": "راكب مطبخ (فرن وميكرويف) — تكييف: 3 مركزي (الصالة، الغرفة الرئيسية، المطبخ) و3 سبليت (غرفتا النوم، غرفة الخادمة)",
       "position": "خلفية",
       "description": "3 غرف نوم - صالة - مطبخ - غرفة غسيل وكوي - غرفة خادمة - 4 حمامات - موقف خاص خارجي - مكيفات راكبة",
@@ -21,7 +21,7 @@
     {
       "id": "araka11-c11",
       "project": "عراقة 11",
-      "neighborhood": "",
+      "neighborhood": "حي العارض",
       "unitNumber": "C11",
       "floor": "الثاني",
       "area": 125.97,
@@ -38,7 +38,7 @@
     {
       "id": "araka11-e1",
       "project": "عراقة 11",
-      "neighborhood": "",
+      "neighborhood": "حي العارض",
       "unitNumber": "E1",
       "floor": "الأرضي",
       "area": 102.66,
@@ -53,9 +53,26 @@
       "mapUrl": "https://maps.app.goo.gl/5915ggBLnL36iSgn8"
     },
     {
+      "id": "araka11-e10",
+      "project": "عراقة 11",
+      "neighborhood": "حي العارض",
+      "unitNumber": "E10",
+      "floor": "الثاني",
+      "area": 133.37,
+      "furnishing": "مطبخ راكب",
+      "position": "خلفية",
+      "description": "3 غرف نوم - صالة - مطبخ - غرفة غسيل وكوي - غرفة خادمة - 4 حمامات - موقف خاص خارجي",
+      "rentSingle": 65000,
+      "rentTwo": 70000,
+      "extraFees": 3000,
+      "licenseNumber": "7201183582",
+      "listingUrl": "https://sa.aqar.fm/6929614",
+      "mapUrl": "https://maps.app.goo.gl/5915ggBLnL36iSgn8"
+    },
+    {
       "id": "araka11-e6",
       "project": "عراقة 11",
-      "neighborhood": "",
+      "neighborhood": "حي العارض",
       "unitNumber": "E6",
       "floor": "الأول",
       "area": 143.89,
