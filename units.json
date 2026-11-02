@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T12:20:30.769561+03:00",
+  "updated": "2026-11-02T17:20:56.760940+03:00",
   "units": [
     {
       "id": "araka11-c10",
@@ -67,6 +67,23 @@
       "extraFees": 3000,
       "licenseNumber": "7201183582",
       "listingUrl": "https://sa.aqar.fm/6929614",
+      "mapUrl": "https://maps.app.goo.gl/5915ggBLnL36iSgn8"
+    },
+    {
+      "id": "araka11-f4",
+      "project": "عراقة 11",
+      "neighborhood": "حي العارض",
+      "unitNumber": "F4",
+      "floor": "الأرضي",
+      "area": 113.32,
+      "furnishing": "مكيفات + مطبخ راكب",
+      "position": "",
+      "description": "3 غرف نوم - صالة - مطبخ - غرفة غسيل وكوي - 2 حمامات - موقف خاص خارجي",
+      "rentSingle": 60000,
+      "rentTwo": 65000,
+      "extraFees": null,
+      "licenseNumber": "7201181581",
+      "listingUrl": "https://sa.aqar.fm/6946817",
       "mapUrl": "https://maps.app.goo.gl/5915ggBLnL36iSgn8"
     },
     {
