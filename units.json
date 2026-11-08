@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T14:54:02.248118+03:00",
+  "updated": "2026-11-08T19:33:32.227491+03:00",
   "units": [
     {
       "id": "araka11-c10",
@@ -68,6 +68,23 @@
       "licenseNumber": "7201181581",
       "listingUrl": "https://sa.aqar.fm/6946817",
       "mapUrl": "https://maps.app.goo.gl/5915ggBLnL36iSgn8"
+    },
+    {
+      "id": "umw7xvy758w9q",
+      "project": "عراقة 2",
+      "neighborhood": "حي قرطبة",
+      "unitNumber": "310",
+      "floor": "الثاني",
+      "area": 135.56,
+      "furnishing": "مطبخ راكب (فرن، موقد، مايكرويف) - 4 مكيفات",
+      "position": "",
+      "description": "3 غرف - صالة - مطبخ - دورتين مياه - شرفة - موقف خارجي",
+      "rentSingle": 80000,
+      "rentTwo": 90000,
+      "extraFees": 3000,
+      "licenseNumber": "7201216789",
+      "listingUrl": "https://sa.aqar.fm/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%AD%D9%8A-%D9%82%D8%B1%D8%B7%D8%A8%D8%A9/%D8%B4%D8%A7%D8%B1%D8%B9-%D8%A3%D8%A8%D9%8A-%D8%A7%D9%84%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D8%A3%D8%AC%D9%84-%D8%AD%D9%8A-%D9%82%D8%B1%D8%B7%D8%A8%D8%A9-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-6955148",
+      "mapUrl": "https://maps.app.goo.gl/82S3qAyKChgBzoJf7"
     },
     {
       "id": "erqah1-a104",
