@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-09T14:35:12.721505+03:00",
+  "updated": "2026-11-09T15:05:30.266622+03:00",
   "units": [
+    {
+      "id": "erqah1-a104",
+      "project": "عراقة 1",
+      "neighborhood": "حي قرطبة",
+      "unitNumber": "A104",
+      "floor": "الأرضي",
+      "area": 158.16,
+      "furnishing": "مطبخ راكب بأجهزته (ثلاجة، غسالة صحون، غسالة ملابس، ميكرويف، فرن، شواية) - 4 مكيفات مركبة",
+      "position": "واجهة",
+      "description": "3 غرف نوم - صالة - مطبخ راكب - دورتا مياه - مسبح خاص - حديقة خارجية - موقف خاص",
+      "rentSingle": 150000,
+      "rentTwo": 160000,
+      "extraFees": 3000,
+      "licenseNumber": "7201144178",
+      "listingUrl": "https://sa.aqar.fm/6893757",
+      "mapUrl": "https://maps.app.goo.gl/NLfETE4743795EJB6"
+    },
     {
       "id": "araka11-c10",
       "project": "عراقة 11",
@@ -44,12 +61,12 @@
       "area": 102.66,
       "furnishing": "راكب مطبخ",
       "position": "واجهة",
-      "description": "2 غرفة نوم - صالة - مطبخ - غرفة غسيل وكوي - غرفة خادمة - حمامان - موقف خاص خارجي - مكيفات راكبة",
+      "description": "غرفتا نوم - صالة - مطبخ راكب - غرفة غسيل وكوي - غرفة خادمة بحمام خاص - حمامان - موقف خاص خارجي - مكيفات راكبة",
       "rentSingle": 60000,
       "rentTwo": 65000,
       "extraFees": 3000,
       "licenseNumber": "7201076846",
-      "listingUrl": "https://sa.aqar.fm/r/e714ea9a",
+      "listingUrl": "https://sa.aqar.fm/6814667",
       "mapUrl": "https://maps.app.goo.gl/5915ggBLnL36iSgn8"
     },
     {
@@ -59,9 +76,9 @@
       "unitNumber": "F4",
       "floor": "الأرضي",
       "area": 113.32,
-      "furnishing": "مكيفات + مطبخ راكب",
+      "furnishing": "مطبخ راكب + مكيفات · لا يوجد مصعد",
       "position": "",
-      "description": "3 غرف نوم - صالة - مطبخ - غرفة غسيل وكوي - 2 حمامات - موقف خاص خارجي",
+      "description": "3 غرف نوم - صالة - مطبخ راكب - غرفة غسيل وكوي - دورتا مياه - موقف خاص خارجي",
       "rentSingle": 60000,
       "rentTwo": 65000,
       "extraFees": null,
@@ -76,32 +93,15 @@
       "unitNumber": "310",
       "floor": "الثاني",
       "area": 135.56,
-      "furnishing": "مطبخ راكب (فرن، موقد، مايكرويف) - 4 مكيفات",
+      "furnishing": "مؤثثة (الصالة وغرفتا النوم) - مطبخ راكب (فرن، موقد، مايكرويف) - 4 مكيفات",
       "position": "",
-      "description": "3 غرف - صالة - مطبخ - دورتين مياه - شرفة - موقف خارجي",
+      "description": "3 غرف نوم - صالة - مطبخ راكب - دورتا مياه - شرفة - موقف خارجي",
       "rentSingle": 80000,
       "rentTwo": 90000,
       "extraFees": 3000,
       "licenseNumber": "7201216789",
-      "listingUrl": "https://sa.aqar.fm/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%AD%D9%8A-%D9%82%D8%B1%D8%B7%D8%A8%D8%A9/%D8%B4%D8%A7%D8%B1%D8%B9-%D8%A3%D8%A8%D9%8A-%D8%A7%D9%84%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D8%A3%D8%AC%D9%84-%D8%AD%D9%8A-%D9%82%D8%B1%D8%B7%D8%A8%D8%A9-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-6955148",
+      "listingUrl": "https://sa.aqar.fm/6955148",
       "mapUrl": "https://maps.app.goo.gl/82S3qAyKChgBzoJf7"
-    },
-    {
-      "id": "erqah1-a104",
-      "project": "عرقة1",
-      "neighborhood": "حي قرطبة",
-      "unitNumber": "A104",
-      "floor": "الأرضي",
-      "area": 158.16,
-      "furnishing": "مطبخ راكب بأجهزته (ثلاجة، غسالة صحون، غسالة ملابس، ميكرويف، فرن، شواية) - 4 مكيفات مركبة",
-      "position": "واجهة",
-      "description": "3 غرف نوم - صالة - مطبخ - دورتي مياه - مسبح خاص - حديقة خارجية - موقف خاص",
-      "rentSingle": 150000,
-      "rentTwo": 160000,
-      "extraFees": 3000,
-      "licenseNumber": "7201144178",
-      "listingUrl": "https://sa.aqar.fm/شقق-للإيجار/الرياض/شرق-الرياض/حي-قرطبة/شارع-عبدالله-بن-إبراهيم-بن-سيف-حي-قرطبة-مدينة-الرياض-منطقة-الرياض-6893757",
-      "mapUrl": "https://maps.app.goo.gl/NLfETE4743795EJB6"
     }
   ]
 }
