@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T15:35:46.080053+03:00",
+  "updated": "2026-11-10T11:33:04.132047+03:00",
   "units": [
     {
       "id": "erqah1-a104",
@@ -85,23 +85,6 @@
       "licenseNumber": "7201181581",
       "listingUrl": "https://sa.aqar.fm/6946817",
       "mapUrl": "https://maps.app.goo.gl/5915ggBLnL36iSgn8"
-    },
-    {
-      "id": "umw7xvy758w9q",
-      "project": "عراقة 2",
-      "neighborhood": "حي قرطبة",
-      "unitNumber": "310",
-      "floor": "الثاني",
-      "area": 135.56,
-      "furnishing": "مؤثثة (الصالة وغرفتا النوم) - مطبخ راكب (فرن، موقد، مايكرويف) - 4 مكيفات",
-      "position": "",
-      "description": "3 غرف نوم - صالة - مطبخ راكب - دورتا مياه - شرفة - موقف خارجي",
-      "rentSingle": 80000,
-      "rentTwo": 90000,
-      "extraFees": 3000,
-      "licenseNumber": "7201216789",
-      "listingUrl": "https://sa.aqar.fm/6955148",
-      "mapUrl": "https://maps.app.goo.gl/82S3qAyKChgBzoJf7"
     }
   ]
 }
